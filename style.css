@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #eccaff;
+}
+
+.header, .form-group{
+    margin: 20px;
+}
+
+.divContent{
+    background-color: #cebeff;
+    padding: 6%;
+    border-radius: 30px;
+}
+
+.logo{
+    width: 30%;
+    
+}
